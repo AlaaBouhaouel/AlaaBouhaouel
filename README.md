@@ -1,5 +1,3 @@
-![Banner](banner.png)
-
 # ala-bouhaouel
 👋 Hi, I’m Ala Bouhaouel
 
